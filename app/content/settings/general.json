@@ -1,10 +1,10 @@
 {
   "title": "Home",
   "titleTemplate": "| Bluise",
-  "welcomeText": "# Yo, I'm Bluise - A Nuxt.js & Netlify CMS boilerplate.\n\nAuthentic cred hoodie hashtag selfies. Raclette banjo cardigan cred. Kitsch XOXO lomo polaroid. Knausgaard put a bird on it four dollar toast leggings typewriter asymmetrical.",
-  "logo": "/images/uploads/logo.svg",
-  "icon": "/images/uploads/logo.png",
+  "welcomeText": "# Pierre Bourgeois - Un développeur Web à Montréal\n\nCette application Web est un carré de sable pour expérimenter avec le concept [Jamstack](https://jamstack.org/). Il est construit avec le framework [Nuxt.js](https://jamstack.org/) et [Netlify](https://www.netlify.com/) qui propose un service de déploiement continu à partir de Git.",
+  "logo": "/images/uploads/logo.png",
+  "icon": "/images/uploads/logo.svg",
   "loadingColor": "#0b3765",
-  "seoDescription": "A quickstart for Nuxt & Netlify CMS",
+  "seoDescription": "Développeur Web à Montréal - javascript, Jamstack, Nuxt.js, Netlify ",
   "seoMetaImage": ""
 }
